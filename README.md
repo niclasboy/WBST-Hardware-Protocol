@@ -7,8 +7,8 @@ Alle Daten werden mittels COBS En-/Decodiert. Es wird eine Datenübertragung von
   
   Datentyp: 
   
-  0x0101      Return Serial Number (128bits)
-  0x0102      Return Typ (64bits)
-  0xFF01      Sent Data
-  0xFF02      Get Data -> Nutzdaten (32 bit (Angefragtes Feld) | 32 bit (ID))
+  0x0101      Return Serial Number (128bits) <br/>
+  0x0102      Return Typ (64bits) <br/>
+  0xFF01      Sent Data <br/>
+  0xFF02      Get Data -> Nutzdaten (32 bit (Angefragtes Feld) | 32 bit (ID)) <br/>
  
