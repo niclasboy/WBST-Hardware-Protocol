@@ -2,7 +2,7 @@
 
 Alle Daten werden mittels COBS En-/Decodiert. Es wird eine Datenübertragung von 250k 8N2 verwendet.
 
-|   16bit   |   16bit   |   .........
+|   16bit   |   16bit   |   ......... <br/>
   Datentyp      Länge       Nutzdaten
   
   Datentyp: 
